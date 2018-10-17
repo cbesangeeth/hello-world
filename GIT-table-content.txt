@@ -1,0 +1,17 @@
+GIT tutuorials for Beginners | Tamil
+1 An Intro to GIT
+2 How to install Git on Ubuntu
+3 How to create Git repo locally
+4 What is Git commit
+4 Pushing your Git to remote
+5 Cloning remote repo
+    Http and SSH
+Pull the changes from remote
+Working with Branches
+  Create new branch
+  Rename branch
+  Pushing to remote branch
+  Delete local branch
+  Delete remote branch
+  Switching branches
+Stash
