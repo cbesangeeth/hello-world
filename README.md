@@ -11,13 +11,18 @@ Config:
 ```
 # Work account, - the default config
 Host Work
-   HostName git.work.com
+   HostName bitbucket.org
    User sangeeth.s
    IdentityFile ~/.ssh/id_rsa
 # Personal account-1
 Host github.com-personal
    HostName github.com
    User cbesangeeth
-   IdentityFile ~/id_rsa_personal_sangeeth
+   IdentityFile ~/.ssh/id_rsa_personal
+# Personal account-2
+Host ssh.dev.azure.com-azure
+   HostName ssh.dev.azure.com
+   User cbe.sangeeth
+   IdentityFile ~/.ssh/id_rsa_azure
 ```
 EOF.
