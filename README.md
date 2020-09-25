@@ -26,3 +26,7 @@ Host ssh.dev.azure.com-azure
    IdentityFile ~/.ssh/id_rsa_azure
 ```
 EOF.
+
+Eg: 
+Personal repo clone
+git clone git@github.com-personal:cbesangeeth/cbesangeeth.github.io.git
