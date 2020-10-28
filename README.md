@@ -7,6 +7,16 @@ this is my first repository
 
 Followed ,https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca for setting up multiple account in one machine.
 
+STEP 1: 
+The SSH config file will be available at ~/.ssh/config. Edit it if it exists, or else we can just create it.
+
+$ cd ~/.ssh/
+
+$ touch config           // Creates the file if not exists
+
+$ code config   
+
+STEP 2:
 Config:
 ```
 # Work account, - the default config
